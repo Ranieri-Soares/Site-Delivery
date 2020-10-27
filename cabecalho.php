@@ -137,7 +137,7 @@
                         <li>
                           <div class="unit unit-spacing-sm">
                             <div class="unit-left"><span class="icon fab fa-whatsapp"></span></div>
-                            <div class="unit-body"><a target="_blank" title="Ir para Whatsapp" class="link-phone" href="http://api.whatsapp.com/send?1=pt_BR&phone=5513981457896">13 98145-7896</a></div>
+                            <div class="unit-body"><a target="_blank" title="Ir para Whatsapp" class="link-phone" href="http://api.whatsapp.com/send?1=pt_BR&phone=5513981457896">13 98177-6198</a></div>
                           </div>
                         </li>
                         <li>
