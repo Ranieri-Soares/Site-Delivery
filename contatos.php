@@ -1,18 +1,48 @@
 <?php include_once("cabecalho.php") ?>
 
-      <!-- Breadcrumbs -->
-      <section class="breadcrumbs-custom-inset">
-        <div class="breadcrumbs-custom context-dark bg-overlay-39">
-          <div class="container">
-            <h2 class="breadcrumbs-custom-title">Contact Us</h2>
-            <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
-              <li class="active">Contact Us</li>
-            </ul>
+      <!-- Contact Form and Gmap-->
+      <section class="section section-md section-last bg-default text-md-left">
+        <div class="container">
+          <div class="row row-50">
+            <div class="col-lg-6 section-map-small">
+             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.017711316694!2d-46.52085968501325!3d-24.03044058445205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce21dbe4dfb959%3A0xbbc9e3342b3096a4!2sAv.%20Z%C3%A9lia%20Giglioli%20Galves%20-%20Balne%C3%A1rio%20Esmeralda%2C%20Praia%20Grande%20-%20SP%2C%2011713-300!5e0!3m2!1spt-BR!2sbr!4v1609798624174!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            </div>
+            <div class="col-lg-6">
+              <h4 class="text-spacing-50">Contate-nos</h4>
+              <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="enviar.php">
+                <div class="row row-14 gutters-14">
+                  <div class="col-sm-6">
+                    <div class="form-wrap">
+                      <input class="form-input" id="contact-first-name" type="text" name="name" placeholder="Nome e Sobrenome" data-constraints="@Required">
+                      <label class="form-label" for="contact-first-name">Nome</label>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="form-wrap">
+                      <input class="form-input" id="contact-tel" type="telefone" name="text" >
+                      <label class="form-label" for="contact-tel">WhatsApp</label>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="form-wrap">
+                      <input class="form-input" id="contact-email" type="email" name="email" data-constraints="@Email @Required">
+                      <label class="form-label" for="contact-email">E-mail</label>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="form-wrap">
+                      <label class="form-label" for="contact-message">Mensagem</label>
+                      <textarea class="form-input" id="contact-message" name="message" data-constraints="@Required"></textarea>
+                    </div>
+                  </div>
+                </div>
+                <button class="button button-primary button-pipaluk" type="submit">Enviar</button>
+              </form>
+            </div>
           </div>
-          <div class="box-position" style="background-image: url(images/bg-breadcrumbs.jpg);"></div>
         </div>
       </section>
+
       <!-- Contact information-->
       <section class="section section-md section-first bg-default">
         <div class="container">
@@ -45,54 +75,6 @@
                   <p class="box-contacts-link"><a href="mailto:#">info@demolink.org</a></p>
                 </div>
               </article>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- Contact Form and Gmap-->
-      <section class="section section-md section-last bg-default text-md-left">
-        <div class="container">
-          <div class="row row-50">
-            <div class="col-lg-6 section-map-small">
-              <div class="google-map-container" data-center="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-zoom="5" data-icon="images/gmap_marker.png" data-icon-active="images/gmap_marker_active.png" data-styles="[{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#444444&quot;}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.business&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;road&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:45}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#b4d4e1&quot;},{&quot;visibility&quot;:&quot;on&quot;}]}]">
-                <div class="google-map"></div>
-                <ul class="google-map-markers">
-                  <li data-location="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-description="9870 St Vincent Place, Glasgow"></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <h4 class="text-spacing-50">Contact Form</h4>
-              <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
-                <div class="row row-14 gutters-14">
-                  <div class="col-sm-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-first-name" type="text" name="name" data-constraints="@Required">
-                      <label class="form-label" for="contact-first-name">First Name</label>
-                    </div>
-                  </div>
-                  <div class="col-sm-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-last-name" type="text" name="name" data-constraints="@Required">
-                      <label class="form-label" for="contact-last-name">Last Name</label>
-                    </div>
-                  </div>
-                  <div class="col-12">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-email" type="email" name="email" data-constraints="@Email @Required">
-                      <label class="form-label" for="contact-email">E-mail</label>
-                    </div>
-                  </div>
-                  <div class="col-12">
-                    <div class="form-wrap">
-                      <label class="form-label" for="contact-message">Message</label>
-                      <textarea class="form-input" id="contact-message" name="message" data-constraints="@Required"></textarea>
-                    </div>
-                  </div>
-                </div>
-                <button class="button button-primary button-pipaluk" type="submit">Send Message</button>
-              </form>
             </div>
           </div>
         </div>

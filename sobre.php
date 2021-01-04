@@ -79,7 +79,7 @@
               <div class="owl-carousel owl-modern" data-items="1" data-stage-padding="15" data-margin="30" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay="true">
                 <!-- Quote Lisa-->
                 <article class="quote-lisa">
-                  <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles" src="images/hugo.jpg" alt="" width="100" height="100"/></a>
+                  <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles" src="images/hugo.jpeg" alt="" width="100" height="100"/></a>
                     <div class="quote-lisa-text">
                       <p class="q">I picked up a head of your lettuce at a local grocery store today. What an amazing and beautiful lettuce it is! I’ve never seen another so full and green and tempting.</p>
                     </div>
@@ -116,7 +116,7 @@
       <!-- Latest Projects-->
       <section class="section section-md section-fluid bg-default">
         <div class="container">
-          <h2>Nossa Historia</h2>
+          <h2>Nossa História</h2>
         </div>
         <!-- Owl Carousel-->
         <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="2" data-lg-items="3" data-xl-items="4" data-margin="30" data-stage-padding="15" data-xxl-stage-padding="0" data-autoplay="true" data-nav="true" data-dots="true">
