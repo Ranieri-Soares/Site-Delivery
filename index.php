@@ -263,7 +263,7 @@
                 <article class="thumbnail thumbnail-mary thumbnail-sm wow slideInUp" data-wow-delay=".1s">
                   <div class="thumbnail-mary-figure"><img src="images/galeria/02-tumb.jpg" alt="" width="370" height="303"/>
                   </div>
-                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/02.jpg" data-lightgallery="item"><img src="images/galeria/02.jpg" alt="" width="370" height="303"/></a>
+                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/02.png" data-lightgallery="item"><img src="images/galeria/02.png" alt="" width="370" height="303"/></a>
                     <h4 class="thumbnail-mary-title"><a href="#">Artesanais</a></h4>
                   </div>
                 </article>
@@ -275,7 +275,7 @@
                 <article class="thumbnail thumbnail-mary thumbnail-sm wow slideInRight" data-wow-delay=".0s">
                   <div class="thumbnail-mary-figure"><img src="images/galeria/03-tumb.jpg" alt="" width="370" height="303"/>
                   </div>
-                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/03.jpg" data-lightgallery="item"><img src="images/galeria/03.jpg" alt="" width="370" height="303"/></a>
+                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/03.png" data-lightgallery="item"><img src="images/galeria/03.png" alt="" width="370" height="303"/></a>
                     <h4 class="thumbnail-mary-title"><a href="#">Drinks e Bebidas</a></h4>
                   </div>
                 </article>
@@ -287,7 +287,7 @@
                 <article class="thumbnail thumbnail-mary thumbnail-sm wow slideInUp" data-wow-delay=".1s">
                   <div class="thumbnail-mary-figure"><img src="images/galeria/04-tumb.jpg" alt="" width="370" height="303"/>
                   </div>
-                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/04.jpg" data-lightgallery="item"><img src="images/galeria/04.jpg" alt="" width="370" height="303"/></a>
+                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/04.png" data-lightgallery="item"><img src="images/galeria/04.png" alt="" width="370" height="303"/></a>
                     <h4 class="thumbnail-mary-title"><a href="#">Açaí</a></h4>
                   </div>
                 </article>
@@ -299,7 +299,7 @@
                 <article class="thumbnail thumbnail-mary thumbnail-sm wow slideInLeft" data-wow-delay="0s">
                   <div class="thumbnail-mary-figure"><img src="images/galeria/05-tumb.jpg" alt="" width="370" height="303"/>
                   </div>
-                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/05.jpg" data-lightgallery="item"><img src="images/galeria/05.jpg" alt="" width="370" height="303"/></a>
+                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/05.png" data-lightgallery="item"><img src="images/galeria/05.png" alt="" width="370" height="303"/></a>
                     <h4 class="thumbnail-mary-title"><a href="#">Pizzas</a></h4>
                   </div>
                 </article>
@@ -311,7 +311,7 @@
                 <article class="thumbnail thumbnail-mary thumbnail-sm wow slideInDown" data-wow-delay=".1s">
                   <div class="thumbnail-mary-figure"><img src="images/galeria/06-tumb.jpg" alt="" width="370" height="303"/>
                   </div>
-                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/06.jpg" data-lightgallery="item"><img src="images/galeria/06.jpg" alt="" width="370" height="303"/></a>
+                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="images/galeria/06.png" data-lightgallery="item"><img src="images/galeria/06.png" alt="" width="370" height="303"/></a>
                     <h4 class="thumbnail-mary-title"><a href="#">Vinhos</a></h4>
                   </div>
                 </article>

@@ -22,40 +22,40 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
                     <div class="text-center text-sm-left offset-top-30">
                       <ul class="row-16 list-0 list-custom list-marked list-marked-sm list-marked-secondary">
-                        <li>Eiusmod tempor</li>
-                        <li>Dolore magna</li>
-                        <li>Minim veniam</li>
-                        <li>Nostrud exercitation</li>
-                        <li>Laboris nisi</li>
-                        <li>Officia deserunt</li>
+                        <li>X1</li>
+                        <li>X2</li>
+                        <li>X3</li>
+                        <li>X4</li>
+                        <li>X5</li>
+                        <li>X6</li>
                       </ul>
                     </div>
                     <div class="group-md group-middle"><a class="button button-width-xl-230 button-primary button-pipaluk" href="#">Veja Mais</a><a class="button button-width-xl-310 button-default-outline button-wapasha" href="contatos.php">Contate-nos</a></div>
                   </div>
                   <div class="tab-pane fade" id="tabs-4-2">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
                     <div class="text-center text-sm-left offset-top-30">
                       <ul class="row-16 list-0 list-custom list-marked list-marked-sm list-marked-secondary">
-                        <li>Nostrud exercitation</li>
-                        <li>Laboris nisi</li>
-                        <li>Officia deserunt</li>
-                        <li>Eiusmod tempor</li>
-                        <li>Dolore magna</li>
-                        <li>Minim veniam</li>
+                        <li>X1</li>
+                        <li>X2</li>
+                        <li>X3</li>
+                        <li>X4</li>
+                        <li>X5</li>
+                        <li>X6</li>
                       </ul>
                     </div>
                     <div class="group-md group-middle"><a class="button button-width-xl-230 button-primary button-pipaluk" href="#">Veja Mais</a><a class="button button-width-xl-310 button-default-outline button-wapasha" href="contatos.php">Contate-nos</a></div>
                   </div>
                   <div class="tab-pane fade" id="tabs-4-3">
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
                     <div class="text-center text-sm-left offset-top-30">
                       <ul class="row-16 list-0 list-custom list-marked list-marked-sm list-marked-secondary">
-                        <li>Minim veniam</li>
-                        <li>Nostrud exercitation</li>
-                        <li>Eiusmod tempor</li>
-                        <li>Dolore magna</li>
-                        <li>Laboris nisi</li>
-                        <li>Officia deserunt</li>
+                        <li>X1</li>
+                        <li>X2</li>
+                        <li>X3</li>
+                        <li>X4</li>
+                        <li>X5</li>
+                        <li>X6</li>
                       </ul>
                     </div>
                     <div class="group-md group-middle"><a class="button button-width-xl-230 button-primary button-pipaluk" href="#">Veja Mais</a><a class="button button-width-xl-310 button-default-outline button-wapasha" href="contatos.php">Contate-nos</a></div>
@@ -81,7 +81,7 @@
                 <article class="quote-lisa">
                   <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles" src="images/hugo.jpeg" alt="" width="100" height="100"/></a>
                     <div class="quote-lisa-text">
-                      <p class="q">I picked up a head of your lettuce at a local grocery store today. What an amazing and beautiful lettuce it is! I’ve never seen another so full and green and tempting.</p>
+                      <p class="q">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
                     </div>
                     <h5 class="quote-lisa-cite"><a href="#">Hugo Vasconcelos</a></h5>
                     <p class="quote-lisa-status">Cliente Satisfeito</p>
