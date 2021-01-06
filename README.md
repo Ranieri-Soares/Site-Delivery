@@ -1,5 +1,5 @@
 # Curso de Site Delivery - Html5, CSS3, PHP7
- Curso realizado na plantaforma Q-Cursos
+ Curso realizado na plantaforma Q-Cursos.
  
  ## Descrição do curso:
 O curso de criação de Site para delivery possui 63 aulas, neste curso iremos criar um site voltado para delivery, vamos usar um template free e montaremos toda estrutura do nosso projeto encima deste template, no curso você vai aprender a estruturar todo um site aplicando formulários, banco de dados, tela de login e muito mais, este é o primeiro dos cursos para criação completa de um sistema delivery, adquira já o curso e comece a desenvolver seus projetos web de forma profissional.
