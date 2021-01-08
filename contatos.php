@@ -19,7 +19,7 @@
                   </div>
                   <div class="col-sm-6">
                     <div class="form-wrap">
-                      <input class="form-input" id="contact-tel" type="telefone" name="text" >
+                      <input class="form-input" id="contact-tel" type="telefone" name="telefone" >
                       <label class="form-label" for="contact-tel">WhatsApp</label>
                     </div>
                   </div>
