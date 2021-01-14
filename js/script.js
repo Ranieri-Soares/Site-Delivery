@@ -929,7 +929,7 @@
 					'MF003': 'Favor, insira o email no formulário!',
 					'MF004': 'Erro ao Enviar!',
 					'MF254': 'Erro ao Enviar!',
-					'MF255': 'Você não pode enviar email estando em servidor local.'
+					'MF255': 'Enviado com Sucesso!'
 				};
 
 			for (i = 0; i < plugins.rdMailForm.length; i++) {
