@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
-  <head>
-    <title>Burguer Freitas</title>
-    <meta name="format-detection" content="telephone=no">
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<head>
+  <title>Burguer Freitas</title>
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-    <meta name="description" content="Lanches, Lanche, Lanches em São Paulo, Lanche em São Paulo" >
-    <meta name="author" content="Hugo Vasconcelos e Ranieri Soares" >
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta name="description" content="Lanches, Lanche, Lanches em São Paulo, Lanche em São Paulo" >
+  <meta name="author" content="Hugo Vasconcelos e Ranieri Soares" >
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
-    <link rel="icon" href="images/favicon-nova.ico" type="image/x-icon">
-    <!-- Stylesheets-->
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,400,500">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/fonts.css">
-    <link rel="stylesheet" href="css/style.css">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <link rel="icon" href="images/favicon-nova.ico" type="image/x-icon">
+  <!-- Stylesheets-->
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,400,500">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/style.css">
     <!--[if lt IE 10]>
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <script src="js/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
+  <![endif]-->
+</head>
+<body>
     <!-- <div class="preloader">
       <div class="preloader-body">
         <div class="cssload-container"><span></span><span></span><span></span><span></span>
@@ -110,7 +110,7 @@
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="sobre.php">Sobre</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="login.php">Login</a>
+                      <li class="rd-nav-item"><a target="_blank" class="rd-nav-link" href="login.php">Login</a>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="contatos.php">Contatos</a>
                       </li>
