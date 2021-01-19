@@ -1,8 +1,24 @@
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
+<head>
+  <title>Burguer Freitas - Login</title>
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta name="description" content="Lanches, Lanche, Lanches em São Paulo, Lanche em São Paulo" >
+  <meta name="author" content="Hugo Vasconcelos e Ranieri Soares" >
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <link href="css/login.css" rel="stylesheet" id="bootstrap-css">
 <link rel="stylesheet" href="css/fonts.css">
+<link rel="icon" href="images/favicon-nova.ico" type="image/x-icon">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
 <!------ Include the above in your HEAD tag ---------->
 
 <!-- login start -->
@@ -76,3 +92,6 @@
 <!-- login end -->
 
 </div>
+
+</body>
+</html>
