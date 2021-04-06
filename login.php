@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html class="wide wow-animation" lang="en">
+
+
 <head>
   <title>Burguer Freitas - Login</title>
   <meta name="format-detection" content="telephone=no">
@@ -11,10 +11,14 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta charset="utf-8">
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <link href="css/login.css" rel="stylesheet" id="bootstrap-css">
 <link rel="stylesheet" href="css/fonts.css">
 <link rel="icon" href="images/favicon-nova.ico" type="image/x-icon">
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
@@ -46,12 +50,6 @@
                             <span class="focus-input100 password"></span>
                         </div>
 
-                        <div class="text-right p-t-8 p-b-31">
-                            <a class="text-dark" href="#">
-                                Recuperar Senha?
-                            </a>
-                        </div>
-
                         <div class="container-login100-form-btn">
                             <div class="wrap-login100-form-btn">
                                 <button class="btn btn-primary">
@@ -63,8 +61,15 @@
                     </form>
 
                     <div class="copy-text">Não tem cadastro ?
-                        <a href="http://grafreez.com">Cadastre-se</a>
+                        <a class="text-primary" href="" data-toggle="modal" data-target="#modal-login">Cadastre-se</a>
                     </div>
+
+                    <div class="text-center p-t-8 p-b-31">
+                        <a class="text-danger" href="#">
+                            <small> Recuperar Senha? </small>
+                         </a>
+                    </div>
+
                 </div>
                 <div class="col-md-8 banner-sec">   
                   <div class="signup__overlay"></div>          
@@ -94,4 +99,22 @@
 </div>
 
 </body>
-</html>
+
+
+<div class="modal fade" id="modal-login" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>Modal body text goes here.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
